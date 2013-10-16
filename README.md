@@ -1,5 +1,6 @@
 #Open Source
-
+Ingibjón Ósk Jónsdóttir
+Jón Reginbald Ívarsson
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
 ## 1. Linux uppsetning
