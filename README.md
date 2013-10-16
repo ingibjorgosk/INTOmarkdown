@@ -24,11 +24,11 @@ Framkvæmdin gekk vel en við lentum í smá vandræðum og þurftum að búa ti
 ## 4. Uppsettur hugbúnaður
 
 | User | Program | License | Source Code url    |
-| :------------ | :-----------: | :-----------: | -------------------: |
-| Ingibjörg | Libre Office | LGPLv3  | http://www.libreoffice.org/download/?type=src&version=3.5.3|
+| :-------- | :----------: | :-----: | :-------------------------------------------------------------------------- |
+| Ingibjörg | Libre Office | LGPLv3  | http://www.libreoffice.org/download/?type=src&version=3.5.3                 |
 | Ingibjörg | Thunderbird  | MPL     | http://sourceforge.net/projects/portabletbird/files/Source%20(Thunderbird)/ |
-| Ingibjörg | Gimp         | GPLv3   | http://www.gimp.org/source/#source |
-| Jón       | Vim          | GPL     | http://code.google.com/p/vim/source/browse/ |
-| Jón       | Firefox      | MPL 2.0 | http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/ |
-| Jón       | Audacity     | GPL     | http://audacity.sourceforge.net/download/source | 
+| Ingibjörg | Gimp         | GPLv3   | http://www.gimp.org/source/#source                                          |
+| Jón       | Vim          | GPL     | http://code.google.com/p/vim/source/browse/                                 |
+| Jón       | Firefox      | MPL 2.0 | http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/                    |
+| Jón       | Audacity     | GPL     | http://audacity.sourceforge.net/download/source                             | 
 
