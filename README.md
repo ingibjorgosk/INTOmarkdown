@@ -23,21 +23,16 @@ Framkvæmdin gekk vel en við lentum í smá vandræðum og þurftum að búa ti
 
 ## 4. Uppsettur hugbúnaður
 
-User                 Program        License    Source Code url
+| User | Program | License | Source Code url    |
+| :------------ | :-----------: | :-----------: | -------------------: |
+|Ingibjörg Ósk    | Libre Office    | LGPLv3 | http://www.libreoffice.org/download/?type=src&version=3.5.3|
 
-Ingibjörg Ósk        Libre Office   LGPLv3     http://www.libreoffice.org/download/?type=src&version=3.5.3
+| Ingibjörg Ósk     | Thunderbird    | MPL    | http://sourceforge.net/projects/portabletbird/files/Source%20(Thunderbird)/ |
 
-Ingibjörg Ósk        Thunderbird    MPL        http://sourceforge.net/projects/portabletbird/files/Source%20(Thunderbird)/
+| Ingibjörg Ósk    | Gimp    | ǴPLv3| http://www.gimp.org/source/#source |
 
-Ingibjörg Ósk        Gimp           ǴPLv3      http://www.gimp.org/source/#source
+| Jón Reginbald | Vim    | GPL     | http://code.google.com/p/vim/source/browse/ |
 
-Jón Reginbald        Vim            GPL        http://code.google.com/p/vim/source/browse/
+| Jón Reginbald | Firefox| MPL 2.0 | http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/ |
+| Jón Reginbald | Audacity | GPL | http://audacity.sourceforge.net/download/source | 
 
-Jón Reginbald        Firefox        MPL 2.0    http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/
-
-Jón Reginbald        Audacity       GPL        http://audacity.sourceforge.net/download/source
-
-
-## 5. Unnið með Git (2. hluti)
-
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
