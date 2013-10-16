@@ -26,13 +26,9 @@ Framkvæmdin gekk vel en við lentum í smá vandræðum og þurftum að búa ti
 | User | Program | License | Source Code url    |
 | :------------ | :-----------: | :-----------: | -------------------: |
 |Ingibjörg Ósk    | Libre Office    | LGPLv3 | http://www.libreoffice.org/download/?type=src&version=3.5.3|
-
 | Ingibjörg Ósk     | Thunderbird    | MPL    | http://sourceforge.net/projects/portabletbird/files/Source%20(Thunderbird)/ |
-
 | Ingibjörg Ósk    | Gimp    | ǴPLv3| http://www.gimp.org/source/#source |
-
 | Jón Reginbald | Vim    | GPL     | http://code.google.com/p/vim/source/browse/ |
-
 | Jón Reginbald | Firefox| MPL 2.0 | http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/ |
 | Jón Reginbald | Audacity | GPL | http://audacity.sourceforge.net/download/source | 
 
