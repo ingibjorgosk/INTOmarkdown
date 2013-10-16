@@ -16,9 +16,10 @@ Við lentum ekki í neinum vandræðum með uppsetningu á vim og git.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Framkvæmdin gekk vel en við lentum í smá vandræðum og þurftum að búa til möppuna .ssh og færa gögnin ssh-add id_rsa og ssh-add id_rsa.pub í möppuna. Báðir hópmeðlimir breyttu kóðanum og það gekk vel. Hér eru tenglar á verkefnið:
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+* Forked repository: https://github.com/ingibjorgosk/INTOPrufa
+* Commit history: https://github.com/ingibjorgosk/INTOPrufa/compare/danielbsig:master...master
 
 ## 4. Uppsettur hugbúnaður
 
