@@ -1,5 +1,5 @@
 #Open Source
-* Ingibjón Ósk Jónsdóttir
+* Ingibjörg Ósk Jónsdóttir
 * Jón Reginbald Ívarsson
 
 ## 1. Linux uppsetning
