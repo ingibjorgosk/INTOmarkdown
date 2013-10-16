@@ -4,7 +4,10 @@
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Jón átti nú þegar tölvu með Ubuntu en Ingibjörg þurfti að setja upp VirtualBox í Mac.
+Uppsetningin gekk vel en Ingibjörg var ekki nógu ánægð með VirtualBox. Þar var ekki hægt að t.d. scrolla þess
+vegna unnum við síðasta hluta verkefnisins (nr.5) á tölvu Jóns.
+![ScreenShot](http://)
 
 ## 2. Uppsetning á vim && git
 
