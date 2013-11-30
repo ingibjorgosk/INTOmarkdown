@@ -20,6 +20,7 @@ Framkvæmdin gekk vel en við lentum í smá vandræðum og þurftum að búa ti
 
 * Forked repository: https://github.com/ingibjorgosk/INTOPrufa
 * Commit history: https://github.com/ingibjorgosk/INTOPrufa/compare/danielbsig:master...master
+* https://github.com/ingibjorgosk/INTOmarkdown/commits/master
 
 ## 4. Uppsettur hugbúnaður
 
